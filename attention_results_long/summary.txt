@@ -1,0 +1,8 @@
+Input prompt: The quick brown fox jumps over the lazy dog. This is a longer prompt to test how attention patterns might change with more context.
+
+Total attention heads: 512
+Total attention sink heads: 117
+Percentage of attention sink heads: 22.85%
+
+Correlation Analysis:
+If first layer is attention sink, 26.67% of subsequent layers in that head are also attention sinks.

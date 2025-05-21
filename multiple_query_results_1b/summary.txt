@@ -1,0 +1,21 @@
+Average Sink Analysis Across Multiple Queries
+
+Total percentage of attention sink heads: 34.96%
+
+Sink frequency by layer:
+Layer 0: 34.38%
+Layer 1: 50.00%
+Layer 2: 62.50%
+Layer 3: 21.88%
+Layer 4: 28.12%
+Layer 5: 28.12%
+Layer 6: 9.38%
+Layer 7: 18.75%
+Layer 8: 15.62%
+Layer 9: 21.88%
+Layer 10: 40.62%
+Layer 11: 34.38%
+Layer 12: 43.75%
+Layer 13: 53.12%
+Layer 14: 59.38%
+Layer 15: 37.50%

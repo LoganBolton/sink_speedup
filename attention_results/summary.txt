@@ -1,0 +1,8 @@
+Input prompt: Hello world
+
+Total attention heads: 512
+Total attention sink heads: 366
+Percentage of attention sink heads: 71.48%
+
+Correlation Analysis:
+If first layer is attention sink, 74.04% of subsequent layers in that head are also attention sinks.

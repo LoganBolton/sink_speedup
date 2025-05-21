@@ -1,0 +1,37 @@
+Simulated Average Sink Analysis for Llama-3.1-8B
+
+Total percentage of attention sink heads: 0.20%
+
+Sink frequency by layer:
+Layer 0: 0.00%
+Layer 1: 3.12%
+Layer 2: 0.00%
+Layer 3: 0.00%
+Layer 4: 0.00%
+Layer 5: 0.00%
+Layer 6: 0.00%
+Layer 7: 0.00%
+Layer 8: 0.00%
+Layer 9: 0.00%
+Layer 10: 0.00%
+Layer 11: 0.00%
+Layer 12: 0.00%
+Layer 13: 0.00%
+Layer 14: 0.00%
+Layer 15: 0.00%
+Layer 16: 0.00%
+Layer 17: 0.00%
+Layer 18: 0.00%
+Layer 19: 3.12%
+Layer 20: 0.00%
+Layer 21: 0.00%
+Layer 22: 0.00%
+Layer 23: 0.00%
+Layer 24: 0.00%
+Layer 25: 0.00%
+Layer 26: 0.00%
+Layer 27: 0.00%
+Layer 28: 0.00%
+Layer 29: 0.00%
+Layer 30: 0.00%
+Layer 31: 0.00%
